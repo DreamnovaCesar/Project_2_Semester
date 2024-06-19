@@ -1,0 +1,738 @@
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.60790832e-02 1.00000000e-06 1.00000000e-06 1.00000000e-06]
+INFO:root:Optimal MSE: 5.1627819857824405e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 301.62578320503235
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [6.84575991e-01 1.00000000e-06 6.74872252e-02 1.00000000e+00]
+INFO:root:Optimal MSE: 1.566897530306643e-21
+INFO:root:Found on iteration: 7
+INFO:root:Time: 344.63513016700745
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.60446984e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.489970896558436e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 136.88914251327515
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.31330618e-01 1.00000000e-06 5.03173422e-02 4.92258226e-01]
+INFO:root:Optimal MSE: 3.7188277990411983e-22
+INFO:root:Found on iteration: 9
+INFO:root:Time: 200.4159803390503
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.33341503e-01 1.00000000e-06 6.82528148e-01 1.36689428e-01]
+INFO:root:Optimal MSE: 5.002656076541475e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 2667.3779397010803
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.53828156e-01 1.00000000e-06 2.55471328e-01 7.93448618e-01]
+INFO:root:Optimal MSE: 1.0636542586044702e-15
+INFO:root:Found on iteration: 6
+INFO:root:Time: 137.03650379180908
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [9.68773682e-01 1.00000000e-06 1.00000000e-06 1.00000000e-06]
+INFO:root:Optimal MSE: 6.876787843752163e-19
+INFO:root:Found on iteration: 9
+INFO:root:Time: 289.46463990211487
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.19756166e-01 1.00000000e-06 1.00000000e-06 9.85658134e-01]
+INFO:root:Optimal MSE: 1.0939146471146141e-21
+INFO:root:Found on iteration: 9
+INFO:root:Time: 511.14760088920593
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [4.88640605e-02 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 7.240887181973865e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 122.8207905292511
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [2.22857592e-01 1.00000000e-06 8.76861380e-01 6.65186419e-01]
+INFO:root:Optimal MSE: 4.0790952811989603e-22
+INFO:root:Found on iteration: 4
+INFO:root:Time: 213.74418950080872
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [6.87372145e-01 1.00000000e-06 7.40886442e-01 2.81106970e-01]
+INFO:root:Optimal MSE: 2.376313151434043e-19
+INFO:root:Found on iteration: 7
+INFO:root:Time: 2032.6766920089722
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.27382473e-01 1.00000000e-06 1.00000000e+00 7.37286296e-01]
+INFO:root:Optimal MSE: 6.451279711959863e-16
+INFO:root:Found on iteration: 7
+INFO:root:Time: 119.83723664283752
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.97644534e-01 1.00000000e-06 1.00000000e-06 8.89538600e-01]
+INFO:root:Optimal MSE: 4.903487807228635e-16
+INFO:root:Found on iteration: 9
+INFO:root:Time: 137.65052032470703
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [0.56326795 0.01785924 0.38335944 0.94403029]
+INFO:root:Optimal MSE: 1.7563645200674766e-15
+INFO:root:Found on iteration: 9
+INFO:root:Time: 139.9480459690094
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [0.19990153 0.03585375 0.17332605 0.80826992]
+INFO:root:Optimal MSE: 2.127585311744448e-15
+INFO:root:Found on iteration: 7
+INFO:root:Time: 141.21060228347778
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-06 1.00000000e-06 1.36424413e-01 5.82585777e-01]
+INFO:root:Optimal MSE: 1.147753963685194e-15
+INFO:root:Found on iteration: 7
+INFO:root:Time: 138.6155903339386
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-06 1.00000000e-06 3.98562148e-01 9.53807418e-01]
+INFO:root:Optimal MSE: 1.2877449748521659e-15
+INFO:root:Found on iteration: 9
+INFO:root:Time: 128.4918727874756
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [5.44888483e-01 1.00000000e-06 6.67999577e-02 1.00000000e-06]
+INFO:root:Optimal MSE: 6.615536908004743e-19
+INFO:root:Found on iteration: 6
+INFO:root:Time: 576.0952138900757
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [5.98741459e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 1.2172864645899403e-21
+INFO:root:Found on iteration: 8
+INFO:root:Time: 879.118560552597
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [8.20759277e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.366604430713347e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 223.1130576133728
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [3.75521179e-01 1.00000000e-06 3.35911906e-01 1.00000000e+00]
+INFO:root:Optimal MSE: 1.5788965260929545e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 383.81578731536865
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [9.38992146e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 3.0539796547778957e-19
+INFO:root:Found on iteration: 10
+INFO:root:Time: 4106.242624998093
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [4.58939126e-01 1.00000000e-06 4.01553272e-01 9.16884123e-01]
+INFO:root:Optimal MSE: 3.3076932614950743e-16
+INFO:root:Found on iteration: 8
+INFO:root:Time: 271.18882989883423
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [7.36331138e-01 1.00000000e-06 1.00000000e-06 1.00000000e-06]
+INFO:root:Optimal MSE: 6.885801360719091e-19
+INFO:root:Found on iteration: 2
+INFO:root:Time: 534.4967269897461
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e+00]
+INFO:root:Optimal MSE: 1.0625248092400715e-21
+INFO:root:Found on iteration: 6
+INFO:root:Time: 829.5459253787994
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [9.48046588e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 7.260092361411957e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 237.8823606967926
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [2.30521862e-01 1.00000000e-06 1.00000000e-06 7.81795026e-01]
+INFO:root:Optimal MSE: 3.53455406765343e-22
+INFO:root:Found on iteration: 6
+INFO:root:Time: 439.24517154693604
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.03267874e-01 1.00000000e-06 9.19049556e-01 1.00000000e-06]
+INFO:root:Optimal MSE: 3.1469166338979423e-18
+INFO:root:Found on iteration: 6
+INFO:root:Time: 223.44094514846802
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [4.67282199e-01 1.00000000e-06 2.04304877e-02 1.00000000e+00]
+INFO:root:Optimal MSE: 1.3198421106785134e-21
+INFO:root:Found on iteration: 10
+INFO:root:Time: 445.0221495628357
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [8.13517160e-01 1.00000000e-06 4.99453071e-02 1.00000000e+00]
+INFO:root:Optimal MSE: 6.550439349607896e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 123.3419234752655
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [8.26106208e-02 1.00000000e-06 1.00000000e-06 3.17685883e-01]
+INFO:root:Optimal MSE: 2.5805800768847784e-22
+INFO:root:Found on iteration: 5
+INFO:root:Time: 228.8501591682434
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-06 1.00000000e-06 8.38524663e-01 6.87314784e-01]
+INFO:root:Optimal MSE: 4.2407805251864585e-19
+INFO:root:Found on iteration: 3
+INFO:root:Time: 1670.0328981876373
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Name: ABC_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [0.47509461 0.0176195  0.20117033 0.84648582]
+INFO:root:Optimal MSE: 4.826552166577268e-16
+INFO:root:Found on iteration: 9
+INFO:root:Time: 117.28007054328918
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e-06]
+INFO:root:Optimal MSE: 5.135114443348485e-19
+INFO:root:Found on iteration: 7
+INFO:root:Time: 548.103066444397
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [9.01689206e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 1.2139302677985428e-21
+INFO:root:Found on iteration: 7
+INFO:root:Time: 746.984340429306
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [2.11502306e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.529279862755256e-23
+INFO:root:Found on iteration: 7
+INFO:root:Time: 229.7337098121643
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [3.83759317e-01 1.00000000e-06 2.83450141e-01 7.00463780e-01]
+INFO:root:Optimal MSE: 2.587085543453023e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 424.2742371559143
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [4.41502098e-01 1.00000000e-06 3.47546371e-01 8.80271078e-01]
+INFO:root:Optimal MSE: 3.5643747817621864e-19
+INFO:root:Found on iteration: 3
+INFO:root:Time: 4880.664123535156
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Name: ABC_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [9.31866835e-01 1.00000000e-06 1.00000000e-06 5.84075987e-01]
+INFO:root:Optimal MSE: 7.864954710972635e-16
+INFO:root:Found on iteration: 6
+INFO:root:Time: 252.22883319854736
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [7.25520708e-01 1.00000000e-06 1.31474451e-01 1.00000000e-06]
+INFO:root:Optimal MSE: 8.203199513021718e-19
+INFO:root:Found on iteration: 6
+INFO:root:Time: 1056.2133004665375
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e+00]
+INFO:root:Optimal MSE: 1.2133185142565385e-21
+INFO:root:Found on iteration: 7
+INFO:root:Time: 1265.462168455124
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [2.11158123e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.355808132059534e-23
+INFO:root:Found on iteration: 8
+INFO:root:Time: 372.4115312099457
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [9.28707403e-01 1.00000000e-06 2.66040962e-01 1.00000000e+00]
+INFO:root:Optimal MSE: 2.1136909750349138e-22
+INFO:root:Found on iteration: 9
+INFO:root:Time: 512.999285697937
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.69493931e-01 1.00000000e-06 1.97833579e-01 1.00000000e+00]
+INFO:root:Optimal MSE: 4.029899859410675e-19
+INFO:root:Found on iteration: 5
+INFO:root:Time: 7553.8081130981445
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Name: ABC_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [5.69880280e-01 1.00000000e-06 6.02268864e-01 9.16961306e-01]
+INFO:root:Optimal MSE: 6.399899247495617e-16
+INFO:root:Found on iteration: 6
+INFO:root:Time: 451.66941475868225
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: DE_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e-06]
+INFO:root:Optimal MSE: 5.135114443348485e-19
+INFO:root:Found on iteration: 9
+INFO:root:Time: 394.96786856651306
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: DE_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e+00]
+INFO:root:Optimal MSE: 1.2133185142565385e-21
+INFO:root:Found on iteration: 4
+INFO:root:Time: 661.4438390731812
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: DE_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [8.64609767e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.301417057746481e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 117.10816550254822
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: DE_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.54054201e-01 1.00000000e-06 4.27468173e-01 7.87095672e-01]
+INFO:root:Optimal MSE: 1.991155046623699e-22
+INFO:root:Found on iteration: 8
+INFO:root:Time: 175.05639553070068
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: DE_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.71144445e-01 1.00000000e-06 7.53531069e-01 1.00000000e+00]
+INFO:root:Optimal MSE: 2.723842556660912e-19
+INFO:root:Found on iteration: 10
+INFO:root:Time: 1736.3781805038452
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: DE_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-06 1.00000000e-06 2.00000800e-01 8.41198962e-01]
+INFO:root:Optimal MSE: 9.362951188349114e-16
+INFO:root:Found on iteration: 9
+INFO:root:Time: 139.47233057022095
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: DE_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e-06]
+INFO:root:Optimal MSE: 5.135114443348485e-19
+INFO:root:Found on iteration: 8
+INFO:root:Time: 863.4612305164337
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: DE_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e+00]
+INFO:root:Optimal MSE: 1.2133185142565385e-21
+INFO:root:Found on iteration: 8
+INFO:root:Time: 1200.0678479671478
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: DE_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [5.43934499e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.37574904541887e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 287.6818459033966
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: DE_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [7.25344803e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 1.9387423573637106e-22
+INFO:root:Found on iteration: 10
+INFO:root:Time: 474.96967697143555
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: DE_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-06 1.00000000e-06 1.00000000e-06 9.94630705e-01]
+INFO:root:Optimal MSE: 1.8428072056942325e-19
+INFO:root:Found on iteration: 10
+INFO:root:Time: 2934.45867228508
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: DE_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-06 8.00140161e-03 8.08858821e-01 7.95988923e-01]
+INFO:root:Optimal MSE: 1.2625263973625624e-15
+INFO:root:Found on iteration: 9
+INFO:root:Time: 271.4770038127899
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: DE_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e-06]
+INFO:root:Optimal MSE: 5.135114443348485e-19
+INFO:root:Found on iteration: 8
+INFO:root:Time: 1340.6247601509094
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: DE_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e+00]
+INFO:root:Optimal MSE: 1.2133185142565385e-21
+INFO:root:Found on iteration: 5
+INFO:root:Time: 2332.0930643081665
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: DE_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [8.2848429e-01 1.0000000e-06 1.0000000e-06 1.0000000e+00]
+INFO:root:Optimal MSE: 5.299781793882466e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 337.70506262779236
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: DE_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e+00 1.00000000e-06 1.00000000e-06 6.34413826e-01]
+INFO:root:Optimal MSE: 1.5463052679082766e-22
+INFO:root:Found on iteration: 10
+INFO:root:Time: 623.8959472179413
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: DE_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [2.81624421e-01 1.00000000e-06 1.00000000e-06 2.80009533e-01]
+INFO:root:Optimal MSE: 1.7870527637607255e-19
+INFO:root:Found on iteration: 10
+INFO:root:Time: 4316.844586133957
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: DE_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-06 1.00000000e-06 1.07873553e-01 2.20619577e-01]
+INFO:root:Optimal MSE: 2.6990812105872403e-16
+INFO:root:Found on iteration: 4
+INFO:root:Time: 342.98896384239197
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: HHO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-06 1.e-06 1.e-06 1.e-06]
+INFO:root:Optimal MSE: 5.15816432599477e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 211.38563084602356
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: HHO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.51078407e-05 2.77153721e-05 3.82625936e-05 3.14177708e-04]
+INFO:root:Optimal MSE: 3.1234084051843146e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 470.61899042129517
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: HHO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-06 1.e-06 1.e-06 1.e-06]
+INFO:root:Optimal MSE: 1.1312176078616255e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 172.6595175266266
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: HHO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [0.05494645 0.0324692  0.01824824 0.04297127]
+INFO:root:Optimal MSE: 6.701368084289592e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 253.06420421600342
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: HHO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.90027497e-06 7.93820079e-06 5.24047411e-06 1.38500867e-04]
+INFO:root:Optimal MSE: 3.1155522183359824e-19
+INFO:root:Found on iteration: 4
+INFO:root:Time: 542.9888334274292
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: HHO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.27241806e-05 1.00000000e-06 1.51530180e-05 4.78263607e-02]
+INFO:root:Optimal MSE: 6.13934042512632e-16
+INFO:root:Found on iteration: 10
+INFO:root:Time: 100.6196722984314
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: HHO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [0.4979875  0.0015344  0.00050354 0.00064973]
+INFO:root:Optimal MSE: 5.145715976894862e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 597.667130947113
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: HHO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [4.62717539e-06 8.04889835e-06 3.98178245e-06 7.68716922e-06]
+INFO:root:Optimal MSE: 5.438392566633539e-20
+INFO:root:Found on iteration: 5
+INFO:root:Time: 338.6848449707031
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: HHO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [9.40686439e-01 1.60662607e-06 3.49484716e-06 9.43899633e-01]
+INFO:root:Optimal MSE: 5.381542905803133e-23
+INFO:root:Found on iteration: 6
+INFO:root:Time: 559.0291459560394
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: HHO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [2.08842964e-03 1.23682008e-06 1.33813905e-02 1.00395010e-02]
+INFO:root:Optimal MSE: 3.167882587896851e-22
+INFO:root:Found on iteration: 2
+INFO:root:Time: 353.7441873550415
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: HHO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [5.47370241e-04 1.01041196e-06 8.49093452e-04 1.71637341e-04]
+INFO:root:Optimal MSE: 2.1500209746014414e-19
+INFO:root:Found on iteration: 4
+INFO:root:Time: 1020.5182340145111
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: HHO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [0.0009322  0.00010629 0.00011475 0.00064328]
+INFO:root:Optimal MSE: 3.2035413876462983e-16
+INFO:root:Found on iteration: 10
+INFO:root:Time: 213.59305477142334
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: HHO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-06 1.e-06 1.e-06 1.e-06]
+INFO:root:Optimal MSE: 5.163789240564141e-19
+INFO:root:Found on iteration: 7
+INFO:root:Time: 590.6025068759918
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: HHO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [2.01762478e-02 1.00000000e-06 1.00000000e-06 3.90989746e-05]
+INFO:root:Optimal MSE: 5.434541829213809e-20
+INFO:root:Found on iteration: 8
+INFO:root:Time: 651.4878175258636
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: HHO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [2.77583261e-04 1.00409181e-06 1.10092383e-04 9.98714439e-01]
+INFO:root:Optimal MSE: 5.374511435687555e-23
+INFO:root:Found on iteration: 9
+INFO:root:Time: 581.8219676017761
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: HHO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [0.00203211 0.00189377 0.03472479 0.0020508 ]
+INFO:root:Optimal MSE: 3.2962194093922296e-22
+INFO:root:Found on iteration: 2
+INFO:root:Time: 847.407963514328
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: HHO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [0.00019873 0.00022246 0.12983134 0.01219169]
+INFO:root:Optimal MSE: 4.510669087241021e-19
+INFO:root:Found on iteration: 3
+INFO:root:Time: 1991.2713198661804
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: HHO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [0.00087831 0.00100366 0.00107801 0.00136704]
+INFO:root:Optimal MSE: 3.0942615887916674e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 336.1955876350403
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: PSO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.31151520e-01 9.22373868e-05 1.00000000e+00 5.09183843e-01]
+INFO:root:Optimal MSE: 6.039907009573502e-15
+INFO:root:Found on iteration: 10
+INFO:root:Time: 213.66430687904358
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: PSO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e+00]
+INFO:root:Optimal MSE: 1.2133185142565385e-21
+INFO:root:Found on iteration: 2
+INFO:root:Time: 382.4274094104767
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: PSO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [6.27266438e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.2855875331658707e-23
+INFO:root:Found on iteration: 4
+INFO:root:Time: 97.44497013092041
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: PSO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.37160020e-01 1.00000000e-06 3.89471006e-01 3.62138278e-01]
+INFO:root:Optimal MSE: 4.2309626425723063e-22
+INFO:root:Found on iteration: 10
+INFO:root:Time: 182.93392777442932
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: PSO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [2.81976631e-01 1.00000000e-06 3.32223735e-01 1.00000000e-06]
+INFO:root:Optimal MSE: 2.4954541808792295e-19
+INFO:root:Found on iteration: 8
+INFO:root:Time: 709.2274208068848
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: PSO_ARD_30_log.txt
+INFO:root:Optimal Hyperparameters: [8.67514628e-01 1.00000000e-06 1.00000000e-06 9.12459833e-01]
+INFO:root:Optimal MSE: 7.921748233162761e-16
+INFO:root:Found on iteration: 8
+INFO:root:Time: 103.38433837890625
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: PSO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [4.15891489e-01 4.38839176e-04 4.75667288e-01 9.44990992e-01]
+INFO:root:Optimal MSE: 6.027415277796106e-15
+INFO:root:Found on iteration: 9
+INFO:root:Time: 970.4560060501099
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: PSO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e+00]
+INFO:root:Optimal MSE: 1.2133185142565385e-21
+INFO:root:Found on iteration: 2
+INFO:root:Time: 257.0356879234314
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: PSO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [7.77631219e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.247410624251627e-23
+INFO:root:Found on iteration: 10
+INFO:root:Time: 207.03928685188293
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: PSO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [0.37838169 0.74962686 0.53505194 0.35355559]
+INFO:root:Optimal MSE: 1.1653117808422245e-10
+INFO:root:Found on iteration: 10
+INFO:root:Time: 269.2578077316284
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: PSO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-06 1.00000000e-06 1.00000000e-06 5.64649915e-01]
+INFO:root:Optimal MSE: 2.2955296662049407e-19
+INFO:root:Found on iteration: 7
+INFO:root:Time: 1348.0528764724731
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: PSO_ARD_60_log.txt
+INFO:root:Optimal Hyperparameters: [6.73685379e-01 1.00000000e-06 3.86891760e-01 9.52975642e-01]
+INFO:root:Optimal MSE: 1.7459060555059346e-16
+INFO:root:Found on iteration: 8
+INFO:root:Time: 192.79602336883545
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: PSO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e-06]
+INFO:root:Optimal MSE: 5.135114443348485e-19
+INFO:root:Found on iteration: 3
+INFO:root:Time: 1753.0906355381012
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: PSO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e+00 1.e-06 1.e-06 1.e+00]
+INFO:root:Optimal MSE: 1.2133185142565385e-21
+INFO:root:Found on iteration: 2
+INFO:root:Time: 434.4384274482727
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: PSO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [3.38759709e-01 1.00000000e-06 1.00000000e-06 1.00000000e+00]
+INFO:root:Optimal MSE: 5.2054350436309334e-23
+INFO:root:Found on iteration: 5
+INFO:root:Time: 309.8028631210327
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: PSO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [9.34542463e-01 1.00000000e-06 6.76898434e-01 8.08091748e-01]
+INFO:root:Optimal MSE: 1.9629746082650782e-22
+INFO:root:Found on iteration: 6
+INFO:root:Time: 568.5057153701782
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: PSO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [7.75415084e-01 1.00000000e-06 6.64657617e-01 6.84419563e-01]
+INFO:root:Optimal MSE: 2.177634829455214e-19
+INFO:root:Found on iteration: 9
+INFO:root:Time: 1986.0124125480652
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: PSO_ARD_90_log.txt
+INFO:root:Optimal Hyperparameters: [4.81999174e-01 1.00000000e-06 5.42879072e-01 3.84043696e-03]
+INFO:root:Optimal MSE: 2.852801907200827e-16
+INFO:root:Found on iteration: 4
+INFO:root:Time: 776.8360137939453
+

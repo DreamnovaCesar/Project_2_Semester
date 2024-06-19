@@ -1,0 +1,1428 @@
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.37514529e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 5.291634559631348
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.55113899e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 1
+INFO:root:Time: 6.342962980270386
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.84873431e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 17.50243353843689
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.86229338e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 24.50312638282776
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.64825262e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 24.59884810447693
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.31942611e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 25.655399084091187
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.0000000e-08 8.5584127e+02]
+INFO:root:Optimal MSE: 2.2278742399573283e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 5.913925409317017
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 2.53749431e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 7.407965660095215
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.83348675e+02]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 17.49614381790161
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.91427146e+02]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 22.427927255630493
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.14489598e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 25.742375135421753
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.69079121e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 27.616392850875854
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.53241365e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 28.50516176223755
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.0000000e-08 4.0560058e+02]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 3
+INFO:root:Time: 35.093653440475464
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.63725179e+02]
+INFO:root:Optimal MSE: 4.212872287415262e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 33.128257274627686
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.52947827e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 30.05562973022461
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: ABC_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.12987022e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 27.893646478652954
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.48999915e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 12.801917791366577
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [3.13921607e-03 6.34049666e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 0
+INFO:root:Time: 18.89481019973755
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.0000000e-08 7.6830094e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 38.04691219329834
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.74548279e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 58.106261253356934
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.14940579e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 66.81107687950134
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.21978591e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 68.9406349658966
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.72133727e+02]
+INFO:root:Optimal MSE: 2.2278742399573283e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 14.639418840408325
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.83175853e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 18.777541399002075
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+03]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 39.87865853309631
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.73309837e+02]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 59.19187521934509
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.60786346e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 63.048954486846924
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.97369274e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 69.0081217288971
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.98151609e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 66.78781580924988
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.90591113e+02]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 72.44921731948853
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.71206977e+02]
+INFO:root:Optimal MSE: 4.212872287415262e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 67.48419570922852
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.09580279e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 65.12379121780396
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: ABC_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.46684793e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 58.0751748085022
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.06351997e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 26.632439136505127
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.63158399e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.69787096977234
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.56245185e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 60.05949401855469
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.55299074e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 88.05850267410278
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.08696853e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 94.69891428947449
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.28125884e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 95.82216477394104
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.65714135e+02]
+INFO:root:Optimal MSE: 2.2278742399573283e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 18.97200918197632
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.07449256e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 20.4600191116333
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.21862328e+02]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 60.615389585494995
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+03]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 85.4442789554596
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.85016139e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 94.61790132522583
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.21985413e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 102.39925384521484
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.44208759e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 100.95360231399536
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.88902225e+02]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 112.10753607749939
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.87260373e+02]
+INFO:root:Optimal MSE: 4.212872287415262e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 100.58687472343445
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.28050272e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 96.62453770637512
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: ABC_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.63468989e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 92.26582908630371
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 2.99732472e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 19.120594024658203
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.88782423e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 1
+INFO:root:Time: 20.45203924179077
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.53403205e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 25.982237100601196
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.59343759e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 30.079544067382812
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.0000000e-08 9.3684631e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 32.125810623168945
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.42876285e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 32.22944641113281
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.85938419e+02]
+INFO:root:Optimal MSE: 2.2278742399573283e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 15.144994258880615
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.18365572e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 17.500408411026
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+03]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 26.03790593147278
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.05124874e+02]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 31.418705701828003
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.88296177e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 30.799009323120117
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.46953255e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 37.00293564796448
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.99246866e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 32.4272620677948
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.02470399e+02]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 36.92194986343384
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.82370427e+02]
+INFO:root:Optimal MSE: 4.212872287415262e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 35.388818979263306
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.09943522e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 31.843257665634155
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: DE_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.09451562e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 30.59970712661743
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.95611894e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 28.690573930740356
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.37783108e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 1
+INFO:root:Time: 32.25630521774292
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.35201366e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 48.843141078948975
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 2.99357591e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 53.080753326416016
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.0000000e-08 3.4782124e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 56.55323243141174
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.23090292e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 61.793105602264404
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.11488775e+02]
+INFO:root:Optimal MSE: 2.2278742399573283e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 39.23533010482788
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 2.91995884e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 31.63405442237854
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.90902838e+02]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 45.22561860084534
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.48877401e+02]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 53.13776421546936
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.81034609e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 58.745588064193726
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.36691617e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 72.27201795578003
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.94426842e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 60.792089223861694
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+03]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 71.00503921508789
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+03]
+INFO:root:Optimal MSE: 4.212872287415262e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 65.21085000038147
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.43015929e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 2
+INFO:root:Time: 59.730936765670776
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: DE_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.28545056e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 56.66543984413147
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.33627883e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 57.297144174575806
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.85940168e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 1
+INFO:root:Time: 48.9877769947052
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.08869366e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 65.92075610160828
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.0000000e-08 4.7201167e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 80.21336603164673
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.74433507e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 86.15451741218567
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.10438382e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 91.38487553596497
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.50041003e+02]
+INFO:root:Optimal MSE: 2.2278742399573283e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 48.5472149848938
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.76988191e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 42.629157304763794
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.96682321e+02]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 68.14210057258606
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.46209955e+02]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 79.90683603286743
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.14868791e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 87.43814206123352
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.87975902e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 100.2717981338501
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.19505323e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 91.52250242233276
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.68879683e+02]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 106.05199527740479
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.14947213e+02]
+INFO:root:Optimal MSE: 4.212872287415262e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 94.99880266189575
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.54695152e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 88.23606038093567
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: DE_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.96280316e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 84.61391997337341
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.01525520e-08 1.00006865e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 11.093052625656128
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.82025274e-04 1.01118528e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 1
+INFO:root:Time: 8.389708995819092
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [2.88996801e-04 7.08586199e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.55563759803772
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00102695e-08 1.05156759e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 10.981873750686646
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [6.69695938e-03 3.28773309e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 24.913803577423096
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [2.20815163e-04 1.00377785e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 11.050352573394775
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [5.47130615e-03 1.06584214e+02]
+INFO:root:Optimal MSE: 0.31525003312596905
+INFO:root:Found on iteration: 6
+INFO:root:Time: 7.801795959472656
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [4.40329360e-02 1.28148889e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 7.225853204727173
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.53407713e-05 1.01562475e+02]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 11.624576568603516
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [5.25612832e-02 2.57589989e+02]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 22.241808891296387
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.7552137e-06 1.0040943e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 13.545387983322144
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [7.88200460e-03 2.47171129e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.505085468292236
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.10589158e-04 1.00329580e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 11.336856603622437
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.23471401e-07 1.00006122e+02]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 14.078444480895996
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.07739632e-08 3.43492443e+02]
+INFO:root:Optimal MSE: 4.212872287415262e-15
+INFO:root:Found on iteration: 2
+INFO:root:Time: 26.408712148666382
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [8.35228543e-02 6.82946913e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 26.707709074020386
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: HHO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [3.53976634e-07 1.00000865e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 11.01156759262085
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [5.86379912e-06 1.00014346e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 15.677597045898438
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [3.77886287e-06 4.49923387e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 1
+INFO:root:Time: 41.38844418525696
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [2.64063968e-07 1.00001040e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 20.082639455795288
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.78840449e-04 1.00000521e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 22.02285861968994
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [2.02490933e-01 6.36137544e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 50.940322160720825
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.01009711e-08 1.00000001e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.478120803833008
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.25055811e-06 1.00199644e+02]
+INFO:root:Optimal MSE: 2.2278742399573283e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 19.827240228652954
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [2.79228247e-05 1.03634117e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 18.189287185668945
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+02]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 20.04491138458252
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [2.15310695e-06 1.00015725e+02]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.001044273376465
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [2.77490506e-05 8.07595370e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 53.76153755187988
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [5.55583697e-04 1.00728267e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.68573760986328
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.11947457e-08 1.00000049e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 24.601985692977905
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [9.76887608e-02 1.11244875e+02]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 26.51315999031067
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [7.27257956e-05 1.00081063e+02]
+INFO:root:Optimal MSE: 4.730072288574942e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 21.75362539291382
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [3.89714485e-06 1.00019791e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 21.837583541870117
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: HHO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.37929568e-06 1.00015218e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.81680130958557
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [9.68578549e-04 4.69609746e+02]
+INFO:root:Optimal MSE: 1.177710370926044e-22
+INFO:root:Found on iteration: 1
+INFO:root:Time: 62.01953959465027
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [4.53897536e-05 1.45189973e+02]
+INFO:root:Optimal MSE: 0.04363489926943972
+INFO:root:Found on iteration: 1
+INFO:root:Time: 44.270713329315186
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+02]
+INFO:root:Optimal MSE: 1.2145846095425743e-19
+INFO:root:Found on iteration: 1
+INFO:root:Time: 32.72493577003479
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [6.40861568e-05 2.29839786e+02]
+INFO:root:Optimal MSE: 3.2288091812622242e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 66.28963804244995
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.64850653e-06 1.01240851e+02]
+INFO:root:Optimal MSE: 1.1242010351428369e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 44.35834717750549
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [6.4991972e-08 6.7074543e+02]
+INFO:root:Optimal MSE: 4.439773887685699e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 89.07769727706909
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [2.6415229e-04 1.0025263e+02]
+INFO:root:Optimal MSE: 2.2278742399573283e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.943533658981323
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+02]
+INFO:root:Optimal MSE: 6.598119751865195e-24
+INFO:root:Found on iteration: 1
+INFO:root:Time: 25.851202964782715
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+02]
+INFO:root:Optimal MSE: 2.8325152872921758e-21
+INFO:root:Found on iteration: 1
+INFO:root:Time: 32.298258543014526
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [2.29423569e-06 1.00329315e+02]
+INFO:root:Optimal MSE: 3.308321288919019e-16
+INFO:root:Found on iteration: 1
+INFO:root:Time: 40.0920889377594
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00204856e-02 2.86232027e+02]
+INFO:root:Optimal MSE: 2.6062955562722076e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 75.05841445922852
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [7.29400868e-02 8.50828316e+02]
+INFO:root:Optimal MSE: 1.9567075217051905e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 80.72451615333557
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.14596500e-08 1.00000004e+02]
+INFO:root:Optimal MSE: 1.4575393618854677e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 38.5639865398407
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.13481819e-08 2.87676577e+02]
+INFO:root:Optimal MSE: 1.4082449735710984e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 83.12507104873657
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [2.46602149e-03 4.04721576e+02]
+INFO:root:Optimal MSE: 4.212872287415262e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 78.34292316436768
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [7.96634035e-04 6.24274976e+02]
+INFO:root:Optimal MSE: 1.2689842152107537e-14
+INFO:root:Found on iteration: 1
+INFO:root:Time: 77.47969341278076
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: HHO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [6.89390678e-05 3.47401620e+02]
+INFO:root:Optimal MSE: 1.447823520078749e-15
+INFO:root:Found on iteration: 1
+INFO:root:Time: 76.63433027267456
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.24999739e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.24999739e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.7437105178833
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.78839616e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 7.78839616e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.112818479537964
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.61541996e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 8.61541996e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 27.14033031463623
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.35677223e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 9.35677223e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 27.709352016448975
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.05380825e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.05380825e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 28.861770153045654
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.20139769e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.20139769e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 29.353108882904053
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.39537051e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.39537051e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 18.9927499294281
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.99459799e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.99459799e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 19.38806962966919
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+03]
+INFO:root:Optimal MSE: [1.e-08 1.e+03]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 26.296512365341187
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 2.66897514e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 2.66897514e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 23.883311986923218
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.87449146e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.87449146e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 29.360515117645264
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.88452344e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 6.88452344e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 38.66398882865906
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.97292745e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.97292745e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 30.007333517074585
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.80702078e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 9.80702078e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 36.35961723327637
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 8.38135494e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 8.38135494e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 34.75037384033203
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.10359705e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 7.10359705e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 32.18235659599304
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: PSO_LL_30_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.78419346e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 4.78419346e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 29.08432626724243
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.95560394e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.95560394e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 43.66780614852905
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.93093108e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.93093108e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 37.54236960411072
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.25885427e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.25885427e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 43.03707242012024
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.12015836e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 7.12015836e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 55.62211799621582
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.13042728e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 7.13042728e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 58.662429094314575
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.0000000e-08 4.9262948e+02]
+INFO:root:Optimal MSE: [1.0000000e-08 4.9262948e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 65.91807341575623
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.62021901e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.62021901e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 44.90661430358887
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 2.94506546e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 2.94506546e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 30.905126333236694
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.14629956e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 6.14629956e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 49.961341381073
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 1.49606926e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 1.49606926e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 41.360605001449585
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.59858017e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 7.59858017e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 56.739198446273804
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.50788329e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.50788329e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 64.49750328063965
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.37200431e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.37200431e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 56.942336082458496
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+03]
+INFO:root:Optimal MSE: [1.e-08 1.e+03]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 69.46977305412292
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.49709109e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.49709109e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 60.56196594238281
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.02540003e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 9.02540003e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 60.66543483734131
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: PSO_LL_60_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.07232829e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 4.07232829e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 55.44531965255737
+
+INFO:root:Dataset: DS_0_3
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.39332505e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 7.39332505e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 69.02126932144165
+
+INFO:root:Dataset: DS_0_4
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.12618941e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 9.12618941e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 67.76934313774109
+
+INFO:root:Dataset: DS_0_8
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.52787191e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.52787191e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 79.82670998573303
+
+INFO:root:Dataset: DS_0_16
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.56821076e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 9.56821076e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 85.3540666103363
+
+INFO:root:Dataset: DS_0_32
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 4.74243711e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 4.74243711e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 87.35135459899902
+
+INFO:root:Dataset: DS_0_64
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.40132912e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 9.40132912e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 98.52617263793945
+
+INFO:root:Dataset: DS_1_3
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.68848105e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.68848105e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 66.7469573020935
+
+INFO:root:Dataset: DS_1_4
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.47472728e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.47472728e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 70.27185702323914
+
+INFO:root:Dataset: DS_1_8
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 2.84970347e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 2.84970347e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 61.04602122306824
+
+INFO:root:Dataset: DS_1_16
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.76025006e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.76025006e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 78.15379238128662
+
+INFO:root:Dataset: DS_1_32
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 2.68363931e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 2.68363931e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 79.73843479156494
+
+INFO:root:Dataset: DS_1_64
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 3.48283254e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 3.48283254e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 107.43191599845886
+
+INFO:root:Dataset: DS_2_64
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 5.04747169e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 5.04747169e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 91.67966961860657
+
+INFO:root:Dataset: DS_3_64
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 9.00480465e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 9.00480465e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 107.56289458274841
+
+INFO:root:Dataset: DS_4_64
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 6.76738024e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 6.76738024e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 100.38120794296265
+
+INFO:root:Dataset: DS_5_64
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.e-08 1.e+03]
+INFO:root:Optimal MSE: [1.e-08 1.e+03]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 95.10740423202515
+
+INFO:root:Dataset: DS_6_64
+INFO:root:Name: PSO_LL_90_log.txt
+INFO:root:Optimal Hyperparameters: [1.00000000e-08 7.59909249e+02]
+INFO:root:Optimal MSE: [1.00000000e-08 7.59909249e+02]
+INFO:root:Found on iteration: 1
+INFO:root:Time: 93.13141417503357
+
